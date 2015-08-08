@@ -1,5 +1,5 @@
 [theme]
-name=lightdm-webkit-google
+name=lightdm-webkit-google-thc
 description=A Google/ChromeOS style greeter theme
 engine=lightdm-webkit-greeter
 url=index.html
