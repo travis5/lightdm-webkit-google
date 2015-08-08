@@ -4,20 +4,12 @@ This is a theme for LightDM Webkit (`lightdm-webkit-greeter`).
 
 It's designed to be a mix between the usual Google log in screen, and the log in screen that you will find on ChromeOS.
 
-### Screenshot
-
-![](http://uk.omg.li/VE7v/69938074-bdf6-443d-bbeb-85f0a9f2f6de.png)
+<!--### Screenshot
+![](http://uk.omg.li/VE7v/69938074-bdf6-443d-bbeb-85f0a9f2f6de.png)-->
 
 ### Features
 
-I created this for use on Arch Linux on my HP Chromebook 11, so it only has the basic features of:
-
-- Selecting an available user from a dropdown
-- Entering their password
-- Seeing their profile picture
-- Restarting the computer
-- Shutting the computer down
-- A clock!
+Lightdm-webkit-google-thc is a fork of [https://github.com/omgmog/lightdm-webkit-google lightdm-webkit-google] with a twelve hour clock (AM/PM).
 
 ### How to install
 
@@ -37,10 +29,5 @@ There are a couple of methods you can use to set your user picture in LightDM:
 or
 
 - Add `Icon=/path/to/your/face.png` to the bottom of `/var/lib/AccountsService/users/<youraccountname>`
-
-
-### License
-
-Copyright © 2014 Max Glenister moglenstar@gmail.com
 
 This work is free. You can redistribute it and/or modify it under the terms of the WTFPL (Do What The Fuck You Want To Public License), Version 2, as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
