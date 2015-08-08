@@ -17,7 +17,7 @@ Instructions will differ for every platform, but I can tell you how to install i
 
 1. Install and enable `lightdm` and `lightdm-webkit-greeter`
 2. In the terminal, `cd` to `/usr/share/lightdm-webkit/themes/`
-3. Clone this repository here, it should create a folder called `lightdm-webkit-google`
+3. Clone this repository here, it should create a folder called `lightdm-webkit-google-thc`
 4. Enable the theme in your `/etc/lightdm/lightdm-webkit-greeter.conf`
 
 ### Setting your own user picture
