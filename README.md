@@ -1,6 +1,6 @@
 ## A Google/ChromeOS style LightDM Webkit greeter theme
 
-This is a theme for LightDM Webkit (`lightdm-webkit-greeter`).
+This is a theme for LightDM Webkit (`lightdm-webkit-greeter-thc`).
 
 It's designed to be a mix between the usual Google log in screen, and the log in screen that you will find on ChromeOS.
 
